@@ -18,7 +18,7 @@
 
 ### 🌟 Why Choose ServiceNow-Notes?
 
-- ✨ **Dynamic Note Management**  
+- 📝 **Dynamic Note Management**  
   Create, edit, and organize notes for seamless script handling.
 
 - 🔐 **Secure Firebase Integration**  
