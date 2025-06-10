@@ -1,94 +1,85 @@
-# SERVICENOW-NOTES
+<h1 align="center">📝 ServiceNow-Notes</h1>
 
-*Empower Your Notes, Elevate Your Productivity*
+<p align="center">
+  <em>Empower Your Notes, Elevate Your Productivity</em>
+</p>
 
-![Last Commit](https://img.shields.io/badge/last%20commit-last%20thursday-blue)
-![Language](https://img.shields.io/badge/javascript-100%25-blue)
-![Languages](https://img.shields.io/badge/languages-2-blue)
-
----
-
-### Built with the tools and technologies:
-![JSON](https://img.shields.io/badge/JSON-black?logo=json&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)
-![CodeMirror](https://img.shields.io/badge/CodeMirror-red?logo=codemirror&logoColor=white)
-![npm](https://img.shields.io/badge/npm-red?logo=npm&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-skyblue?logo=react&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Last%20Commit-Last%20Thursday-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Javascript-100%25-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Languages-2-blue?style=for-the-badge" />
+</p>
 
 ---
 
-## Table of Contents
+## 🚀 Overview
 
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Testing](#testing)
+**ServiceNow-Notes** is a powerful web-based tool designed to streamline note-taking and script management for developers working with **ServiceNow**.
 
----
+### 🌟 Why Choose ServiceNow-Notes?
 
-## Overview
+- ✨ **Dynamic Note Management**  
+  Create, edit, and organize notes for seamless script handling.
 
-**ServiceNow-Notes** is a powerful web-based tool designed to streamline note-taking and collaboration for developers working with ServiceNow.
+- 🔐 **Secure Firebase Integration**  
+  Real-time database & authentication with Google/email support.
 
-### Why ServiceNow-Notes?
+- 📱 **Responsive Design with Tailwind CSS**  
+  Elegant, adaptable UI that looks great on all devices.
 
-This project enhances productivity by providing a comprehensive platform for managing ServiceNow scripts. The core features include:
+- ✅ **User Authentication**  
+  Easy sign-in with Google or email/password.
 
-- 📝 **Dynamic Note Management**: Create, edit, and organize notes seamlessly for efficient content handling.
-- 🔐 **Firebase Integration**: Leverage robust authentication and real-time data synchronization for enhanced security.
-- 🎨 **Responsive Design with Tailwind CSS**: Enjoy a modern, visually appealing interface that adapts to any device.
-- ✅ **User Authentication**: Simplify onboarding with Google sign-in and email/password registration.
-- 🔗 **API Integration**: Enable dynamic interactions and data handling between client and server.
-- 🧑‍💻 **Customizable User Profiles**: Enhance personalization and user engagement through profile management features.
+- 🔌 **API Integration**  
+  Efficient client-server interactions via dynamic APIs.
+
+- 👤 **Customizable User Profiles**  
+  Personalize user experience with profile features.
 
 ---
 
-## Getting Started
+## 🛠️ Built With
 
-### Prerequisites
-
-This project requires the following dependencies:
-
-- **Programming Language**: JavaScript  
-- **Package Manager**: npm
-
----
-
-### Installation
-
-Build ServiceNow-Notes from the source and install dependencies:
-
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/satyamgit1/ServiceNow-Notes
-    ```
-
-2. **Navigate to the project directory**:
-
-    ```bash
-    cd ServiceNow-Notes
-    ```
-
-3. **Install the dependencies**:
-
-    Using [npm](https://www.npmjs.com/):
-
-    ```bash
-    npm install
-    ```
+<p align="left">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeMirror-DD0031?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 ---
 
-### Usage
+## 📚 Table of Contents
 
-Run the project with:
+- [🚀 Overview](#-overview)
+- [🛠️ Built With](#️-built-with)
+- [⚙️ Getting Started](#️-getting-started)
+  - [📋 Prerequisites](#-prerequisites)
+  - [📦 Installation](#-installation)
+  - [💻 Usage](#-usage)
+  - [🧪 Testing](#-testing)
+- [📬 Feedback](#-feedback)
 
-Using [npm](https://www.npmjs.com/):
+---
 
-```bash
-npm start
+## ⚙️ Getting Started
+
+### 📋 Prerequisites
+
+Make sure you have the following installed:
+
+- **JavaScript**
+- **npm (Node Package Manager)**
+
+---
+
+### 📦 Installation
+
+Follow these steps to set up the project locally:
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/satyamgit1/ServiceNow-Notes
